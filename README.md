@@ -32,7 +32,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='/pokedex.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/pokedex-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
