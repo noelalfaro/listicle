@@ -17,7 +17,8 @@ const renderPoke = async () => {
       "Description: " + poke.description;
     document.getElementById("type").textContent = "Type: " + poke.type;
     document.getElementById("region").textContent = "Region: " + poke.region;
-    document.getElementById("weaknesses").textContent = poke.weaknesses;
+    document.getElementById("weaknesses").textContent =
+      "Weaknesses: " + poke.weaknesses;
     document.title = `Pokemon - ${poke.name}`;
   } else {
     const message = document.createElement("h2");
